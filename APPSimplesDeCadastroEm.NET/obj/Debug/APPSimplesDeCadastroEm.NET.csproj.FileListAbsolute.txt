@@ -1,0 +1,7 @@
+C:\Users\paola\source\repos\CriandoAPPSimplesDeCadastroEm.NET\APPSimplesDeCadastroEm.NET\bin\Debug\APPSimplesDeCadastroEm.NET.exe.config
+C:\Users\paola\source\repos\CriandoAPPSimplesDeCadastroEm.NET\APPSimplesDeCadastroEm.NET\bin\Debug\APPSimplesDeCadastroEm.NET.exe
+C:\Users\paola\source\repos\CriandoAPPSimplesDeCadastroEm.NET\APPSimplesDeCadastroEm.NET\bin\Debug\APPSimplesDeCadastroEm.NET.pdb
+C:\Users\paola\source\repos\CriandoAPPSimplesDeCadastroEm.NET\APPSimplesDeCadastroEm.NET\obj\Debug\APPSimplesDeCadastroEm.NET.csproj.AssemblyReference.cache
+C:\Users\paola\source\repos\CriandoAPPSimplesDeCadastroEm.NET\APPSimplesDeCadastroEm.NET\obj\Debug\APPSimplesDeCadastroEm.NET.csproj.CoreCompileInputs.cache
+C:\Users\paola\source\repos\CriandoAPPSimplesDeCadastroEm.NET\APPSimplesDeCadastroEm.NET\obj\Debug\APPSimplesDeCadastroEm.NET.exe
+C:\Users\paola\source\repos\CriandoAPPSimplesDeCadastroEm.NET\APPSimplesDeCadastroEm.NET\obj\Debug\APPSimplesDeCadastroEm.NET.pdb
